@@ -1,5 +1,7 @@
 # Biodiversity_with_plotly
 
+![belly_button_results](/Biodiversity.png)
+
 [Link to deployed dashboard](https://odellrb.github.io/Biodiversity_with_plotly/)
 
 ## Overview
