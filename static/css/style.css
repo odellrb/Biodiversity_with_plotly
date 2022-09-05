@@ -1,4 +1,7 @@
 /* My css style sheet */
+h4{
+    font-weight: bold;
+}
 .jumbotron {
     color: yellow;
     background-image: url("../images/cow.jpeg");
